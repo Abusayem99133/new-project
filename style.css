@@ -1,0 +1,48 @@
+body{
+    margin: 0%;
+}
+h5{
+    margin-left: 35px;
+}
+.container-repo{
+         display: flex;
+         margin:35px;
+         /* padding: 10px; */
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange,red);
+    border-radius: 15px;
+    padding:5px;
+    }
+    .parent-div img{
+    
+        margin-left: 40px;
+    }
+    #heading{
+        text-align: center;
+    }
+    .p-info{
+        color:burlywood;
+    }
+    .new-arow{
+        text-decoration: none;
+        color: red;
+        text-align:initial;
+    }
+    .contain{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 70px;
+        /* margin-left: 10px; */
+    }
+    .last-footer{
+        background-color: rgb(8, 3, 32);
+        text-align: center;
+        padding: 50px;
+        color: white;
+    }
+    #icon{
+        justify-content: space-between;
+    }
+    
