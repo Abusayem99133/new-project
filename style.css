@@ -83,3 +83,43 @@ h5{
     .last-sec{
         background-color: rgb(67, 87, 47);
     }
+
+
+/* form  */
+
+.head-line{
+    background-color: antiquewhite;
+    border: solid 2px rgb(23, 204, 17);
+    padding: 40px;
+}
+#head-line{
+    /* background-color: darkorange; */
+    text-align: center;
+
+}
+form{
+/* background-color: antiquewhite; */
+}
+
+
+label{
+    display:block;
+    margin-top:10px;
+}
+
+.sec-2{
+    background-color: burlywood;
+    border: solid green;
+    padding: 40px;
+}
+/* table  */
+
+table{
+    border-collapse: collapse;
+}
+tbody > tr > td{
+    border:solid 1px black;
+
+}
+
+
